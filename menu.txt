@@ -1,0 +1,5 @@
+index.cgi На главную
+third.cgi Ошибки и скобочки
+fourth.cgi Очередь
+Fifth.cgi Списки
+Six.cgi Большие числа

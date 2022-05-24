@@ -1,0 +1,4 @@
+Popov I.A.|M|34|Classified information|14000|credit
+Kovanov P.P.|M|54|Mail|88005553535|vklad
+Romanov A.P.|M|27|Yandex|777777|credit
+Trubenkov H.A|M|37|USA|666|vklad

@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <title>Сайт</title>
+    <link rel="stylesheet" type="text/css" href="main.css">
+</head>
+<body>
+<div class="header">
+<!--#HEADER#-->
+</div>
+
+    <div class="menu">
+        
+            <div class="menu-header"> Меню </div>
+<!--#MENU#-->
+    </div>    
+    <div class="content">
+<!--#CONTENT#-->
+    </div>
+   
+    <div class="footer">
+       подвал
+    </div>
+
+</body>
+</html>
